@@ -1,7 +1,7 @@
 name: Krafty Cuts
 favicon: null
-layout_spectrum: 0.50012
-typography_spectrum: 0.06293
+layout_spectrum: 0.75298
+typography_spectrum: 0.19108
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#87847f'
   brandStrength: 0.125
   lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 1
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
