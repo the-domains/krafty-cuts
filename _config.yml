@@ -1,7 +1,7 @@
 name: Krafty Cuts
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.75057
+typography_spectrum: 0.627
 title: 'Hair salon in a truck!'
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#87847f'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
